@@ -6,7 +6,7 @@
 .dottedLine {
 	border-top: 2.5px dashed;
 	color: #ffe570;
-	width: 90%;
+	width: 100%;
 	position: relative;
 	top: -15px;
 }
