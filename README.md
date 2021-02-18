@@ -1,2 +1,0 @@
-# giacomotampella_website
-personal_website
